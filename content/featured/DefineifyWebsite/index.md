@@ -8,7 +8,7 @@ tech:
   - HTML5
   - CSS3
   - JavaScript
-  - Scroll Animmation
+  - Scroll Animation
 ---
 
 I created a straightforward agency website to really explore the parallax effect. I've used CSS to make it possible for visitors to this website to scroll and observe the project's transition inside a phone mockup.

@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '4'
 title: 'Snake Game'
 cover: './demo.png'
 github: 'https://github.com/KalpitShah/SnakeGame'
